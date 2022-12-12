@@ -15,3 +15,5 @@ web-build/
 
 #BLimaM4I
 .idea
+/constants/private.js
+/.vscode/
